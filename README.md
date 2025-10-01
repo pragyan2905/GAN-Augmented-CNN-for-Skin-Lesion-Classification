@@ -179,14 +179,6 @@ gan-skin-lesion-classifier/
 └── README.md                      # Project documentation
 ```
 
-## 🔮 Future Work
-
-- Implement additional augmentation techniques (rotation, flipping, color jittering)
-- Experiment with more advanced GAN architectures (StyleGAN, ProGAN)
-- Add explainability features (Grad-CAM, attention maps)
-- Deploy as a web application for clinical demonstration
-- Extend to multi-modal learning with patient metadata
-- Validate on external dermatology datasets
 
 ## 🤝 Contributing
 
